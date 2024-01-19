@@ -31,8 +31,8 @@ This is application for Insurance claim using permission based  blockchain Hyper
 `./minifab cleanup`
 
 #### To remove the containers
-`docker rm $(docker container ls -q) --force`
-`docker container prune`
-`docker system prune`
-`docker volume prune --filter all=1`
-`docker network prune`
+`docker rm $(docker container ls -q) --force`  <br>
+`docker container prune` <br>
+`docker system prune` <br>
+`docker volume prune --filter all=1` <br>
+`docker network prune` <br>
