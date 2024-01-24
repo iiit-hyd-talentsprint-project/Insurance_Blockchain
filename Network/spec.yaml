@@ -24,8 +24,6 @@ fabric:
   - "orderer1.insurance.com"
   - "orderer2.insurance.com"
   - "orderer3.insurance.com"
-  - "orderer4.insurance.com"
-  - "orderer5.insurance.com"
 ############################################################### 
   settings:
     ca:
